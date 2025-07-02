@@ -1,27 +1,34 @@
 StudyAI - AI-Powered Study Companion
+
 A comprehensive AI study companion application that helps students learn across all academic disciplines with personalized assistance, progress tracking, and intelligent features.
 
 🌟 Features
 Core Functionality
+
 AI-Powered Chat Interface: Get instant, accurate answers to study questions with detailed explanations
 Multi-Subject Support: Mathematics, Sciences, Literature, History, Computer Science, Arts, Languages, and more
 Document Upload: Upload PDFs, documents, and study materials for AI analysis
 Vision AI Integration: Take photos of handwritten notes, textbooks, or whiteboards for text extraction
 Personalized Learning: Adaptive responses based on academic level and preferred difficulty
 Progress Tracking: Monitor study sessions, question counts, and learning streaks
+
 User Experience
+
 Beautiful UI/UX: Modern, responsive design with dark/light mode support
 Subject-Focused Sessions: Start studying with specific subject context
 Follow-up Questions: AI-generated suggestions to deepen understanding
 Source Citations: All answers include credible academic sources
 Bookmarking: Save important questions and answers for later review
 Profile Management: Customize learning preferences and track achievements
+
 Technical Features
 Real-time Chat: Smooth, responsive messaging interface
 File Processing: Support for multiple document formats
 Image Analysis: Google Vision API integration for OCR
 Database Integration: Supabase backend with user authentication
 Responsive Design: Works seamlessly on desktop and mobile devices
+
+
 🚀 Live Demo
 Deployed Application: https://incomparable-kitsune-35d1ea.netlify.app
 
@@ -103,11 +110,13 @@ Key features:
 Row Level Security (RLS) enabled
 Automatic triggers for updating user statistics
 Optimized indexes for performance
+
 🎯 Usage Guide
 Getting Started
 Sign Up/Sign In: Create an account or sign in to save progress
 Complete Profile Setup: Set your academic level, subjects, and preferences
 Start Studying: Choose a subject or ask any question
+
 Key Features
 Ask Questions: Type any study-related question for instant AI assistance
 Upload Documents: Drag and drop PDFs or documents for analysis
